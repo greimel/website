@@ -11,10 +11,7 @@ I am interested in the distribution of household debt, where it comes from, and 
 
 ## _Research_
 
-**Falling Behind: Has Rising inequality fuelled the American Debt Boom?** (joint with Moritz Drechsel-Grau)
-
-
-Abstract coming soon.
+On May 7 2018 I will present a poster at the Conference on _Financial Markets and Macroeconomic Performance_ at Goethe U Frankfurt. Summary coming soon.
 
 ## _Academic Background_
 
@@ -24,6 +21,6 @@ Abstract coming soon.
 * _2010--2013_: BSc in Economics --- Vienna University of Economics and Business
 
 ## _Teaching Experience_
+* _2018_: TA for Economic Policy (mechanism design, political economy, applications in monetary, fiscal, growth and competition policies, taught by Hans Peter Grüner) -- Undergraduate --- U Mannheim
 * _2015_: TA for Mathematics 2 (topological spaces, metric, normed spaces, correspondences convexity) --- Graduate --- IHS Vienna
 * _2015_: TA for Econometrics 2 (linear, multivariate time series analysis, taught by Manfred Deistler) --- Graduate --- IHS Vienna
-* _2018_: TA for Economic Policy (mechanism design, political economy, applications in monetary, fiscal, growth and competition policies, taught by Hans Peter Grüner) -- Undergraduate --- U Mannheim
