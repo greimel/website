@@ -11,7 +11,11 @@ I am interested in the distribution of household debt, where it comes from, and 
 
 ## _Research_
 
-On May 7 2018 I will present a poster at the Conference on _Financial Markets and Macroeconomic Performance_ at Goethe U Frankfurt. Summary coming soon.
+**Falling Behind: Has Rising Inequality Fueled the American Debt Boom?** (joint with Moritz Drechsel-Grau)
+
+Summary coming soon.
+
+Will be presented at the Conference on _Financial Markets and Macroeconomic Performance_ at Goethe U Frankfurt (May 2018, Poster) and the _SED Annual Meeting_ in Mexico City (June 2018).
 
 ## _Academic Background_
 
