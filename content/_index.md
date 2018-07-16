@@ -18,7 +18,15 @@ _The household debt boom since 1980 is considered one of the main drivers of the
 
 _We build a tractable dynamic network model with housing to illustrate how our mechanism generates these facts. We extend it to a quantitative model with heterogenous income profiles to show that the partial equilibrium results go through in general equilibrium. As a by-product, our quantitative model generates falling interest rates and a house price boom._
 
-Will be presented at the Conference on _Financial Markets and Macroeconomic Performance_ at Goethe U Frankfurt (May 2018, Poster), the _SED Annual Meeting_ in Mexico City (June 2018, presented by MDG) and the _Econometric Society European Meeting_ in Cologne (August 2018).
+Draft is coming soon.
+
+Presented at
+
+* [_Financial Markets and Macroeconomic Performance_](https://safe-frankfurt.de/fileadmin/user_upload/editor_common/Events/2018_DFG/Program_Macro_2018.pdf) in Frankfurt (May 2018, Poster)
+* [_SED Annual Meeting_](https://editorialexpress.com/conference/SED2018/program/SED2018.html#160) in Mexico City (June 2018, _presented by MDG_)
+* [CEPR _European Summer Symposium in Financial Markets_](https://cepr.org/5689) in Gerzensee (July 2018, evening sessions),
+* [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2018/program/EEAESEM2018.html#196) in Cologne (August 2018)
+* _Annual Meeting of the German Economic Association (VfS)_ in Freiburg (September 2018, _presented by MDG_).
 
 ## _Academic Background_
 
@@ -37,7 +45,7 @@ Will be presented at the Conference on _Financial Markets and Macroeconomic Perf
 
 University of Mannheim \\
 Department of Economics \\
-L7 3-5, Room 202 \\
+L7 3-5, Room 204 \\
 68161 Mannheim \\
 Germany
 
