@@ -14,7 +14,7 @@ _Fields:_ Macroeconomics with heterogenous agents, housing and financial markets
 
 _Topics:_ Housing and mortgage markets, income inequality, financial stability, financial crises
 
-_Technical:_ Numerical methods, quantitative modelling, free open source software (mostly in Julia and R, [see my minor contributions to Julia packages](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Agreimel))
+_Technical:_ Numerical methods, quantitative modelling, free open source software (mostly Julia and R, [see my minor contributions to Julia packages](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Agreimel)), high performance computing (i.e. running parallelized programs on remote clusters), using [continuous integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) for reproducable research
 
 ## _Talks and Discussions_
 
