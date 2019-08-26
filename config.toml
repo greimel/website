@@ -16,22 +16,23 @@ footnotereturnlinkcontents = "↩"
 #     name = "Home"
 #     url = "/"
 #     weight = 1
-# [[menu.main]]
-#     name = "About"
-#     url = "/about/"
-#     weight = 2
-# [[menu.main]]
-#     name = "Research"
-#     url = "/categories/"
-#     weight = 3
-# [[menu.main]]
-#     name = "Teaching"
-#     url = "/tags/"
-#     weight = 4
-# [[menu.main]]
-#     name = "Subscribe"
-#     url = "/index.xml"
+[[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 20
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 30
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 40
+[[menu.main]]
+    name = "CV"
+    url = "/resume/"
+    weight = 50
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Fabian Greimel](/) 2018 | [Github](https://github.com/greimel) | [Gitlab](https://gitlab.com/greimel)"
+    footer = "&copy; [Fabian Greimel](/) 2019 | [Github](https://github.com/greimel) | [Gitlab](https://gitlab.com/greimel)"
