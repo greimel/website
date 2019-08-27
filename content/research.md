@@ -15,14 +15,30 @@ _Technical:_ Numerical methods, quantitative modelling, free open source softwar
 **Falling Behind: Has Rising Inequality Fueled the American Debt Boom 1980--2007?** -- **_Job market paper_** (joint with Moritz Drechsel-Grau)
 
 Abstract:
-_The household debt boom since 1980 is considered one of the main drivers of the Great Recession of 2007--9. In lockstep with household debt, income inequality has risen to new extremes. We build a model that links rising inequality to the mortgage debt boom. It builds on the old idea that people care about their social rank. When the middle class is falling behind ever richer rich, they take out credit in an attempt to keep up. Our mechanism is consistent with the following stylized facts: (i) Real mortgage debt, (ii) debt-service-to-income ratios and (iii) house sizes (in sqft) have increased since the 1980 across all income quintiles. This happened despite (iv) stagnating real incomes for the bottom 50% since the 1980s._
-
-_We build a tractable dynamic network model with housing to illustrate how our mechanism generates these facts. We extend it to a quantitative model with heterogenous income profiles to show that the partial equilibrium results go through in general equilibrium. As a by-product, our quantitative model generates falling interest rates and a house price boom._
+_The household debt boom since 1980 is considered one of the main drivers of
+the Great Recession of 2007–9. In lockstep with household debt, income inequality
+has risen to new extremes. We build a model that links rising inequality to the
+mortgage debt boom. It builds on the old idea that people care about their social
+status. In an attempt to keep up with ever richer Joneses, the middle class substitutes
+status-enhancing houses for status-neutral consumption. These houses are mortgage-
+financed, creating a debt boom across the income distribution. In a simplified version of the model we show analytically that aggregate debt is increasing in top incomes (holding interest rates fixed). In a quantitative general equilibrium life-cycle version we show that "Keeping up with the Joneses" and rising inequality generate a sizable debt doom, of the same magnitude as the Global Saving Glut (the main alternative explanation for the debt boom). Additionally our mechanism matches the house price boom, while the Global Saving Glut does not._
 
 Draft is coming soon.
 
-Presented at CEPR Frankfurt · SED Mexico · ESSFM Gerzensee · ESEM Cologne · VfS Freiburg · NOeG Winter Meeting Vienna · Frankfurt-Mannheim Macro · Stockholm University · CEPR Mannheim · (details above)
+Presented at CEPR Frankfurt · SED Mexico · ESSFM Gerzensee · ESEM Cologne · VfS Freiburg · NOeG Winter Meeting Vienna · Frankfurt-Mannheim Macro · Stockholm University · CEPR Mannheim
 
 **Understanding Housing Wealth Effects: Debt, Homeownership and the Lifecycle** (joint with Frederick Zadow)
 
-Presented at ESEM Manchester (details above)
+Abstract: _Housing wealth effects—the reaction of consumption to changes in house
+prices—were at the heart of the Great Recession in the US. We provide a closed form
+expression expression for housing wealth effects in tractable lifecycle model with 
+housing and mortgages. We show that the effects are stronger for homeowners that are
+older or have stronger preferences for housing. Contrary to previous empirical
+literature there is an ambiguous effect of indebtedness. We argue how our structural
+model can still generate these reduced form findings. Renters do not react to
+house prices in our model. This means hat aggregate housing wealth effects are proportional to the
+homeownership rate. A numerical example suggests that housing wealth effects can explain 30 % of the boom
+and all of the bust in non-durable consumption. 7% of this can be explained
+by the boom and bust in homeownership rates._
+
+Presented at ESEM Manchester
