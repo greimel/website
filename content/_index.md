@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img class="circular--square" src="https://www.vwl.uni-mannheim.de/media/_processed_/b/f/csm_Greimel__Fabian_19-01-08_106332fafe.jpg" style="max-width:25%;min-width:40px;float:right;" alt="That's me" />
+<img class="circular--square" src=/static/portrait.jpg style="max-width:35%;min-width:40px;float:right;" alt="That's me" />
 
 
 # Fabian Greimel
