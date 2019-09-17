@@ -4,7 +4,7 @@ title: Research
 
 ## _Research Interests_
 
-_Fields:_ Macroeconomics with heterogenous agents, housing and financial markets, Macro-Finance, Household finance
+_Fields:_ Macroeconomics with heterogenous agents, Macro-Finance, Household finance
 
 _Topics:_ Housing and mortgage markets, income inequality, financial stability, financial crises
 
@@ -31,7 +31,7 @@ Presented at CEPR Frankfurt · SED Mexico · ESSFM Gerzensee · ESEM Cologne · 
 
 Abstract: _Housing wealth effects—the reaction of consumption to changes in house
 prices—were at the heart of the Great Recession in the US. We provide a closed form
-expression expression for housing wealth effects in tractable lifecycle model with 
+expression for housing wealth effects in tractable lifecycle model with 
 housing and mortgages. We show that the effects are stronger for homeowners that are
 older or have stronger preferences for housing. Contrary to previous empirical
 literature there is an ambiguous effect of indebtedness. We argue how our structural
