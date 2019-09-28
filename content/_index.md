@@ -33,7 +33,7 @@ email: fabian.greimel@gess.uni-mannheim.de
 
 ## _References_
 
-Michèle Tertilt \\
-Klaus Adam \\
+Michèle Tertilt (co-advisor) \\
+Klaus Adam (co-advisor) \\
 Andreas Peichl \\
 Krzysztof Pytka
