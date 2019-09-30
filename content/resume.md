@@ -2,7 +2,7 @@
 title: Background
 ---
 
-(downloadable CV coming soon)
+[(download CV)](/static/CV.pdf)
 
 ## _Academic Background_
 
@@ -14,6 +14,9 @@ title: Background
 
 ## _Talks and Discussions_
 
+_2020_: _AEA_ in San Diego (January\*, Poster)
+· _AFA_ in San Diego (January\*, Poster)
+
 _2019:_ _Mannheim-Frankfurt Macro Workshop_ (March)
  · _Stockholm University_ (May)
  · _Nordic Macro Symposium_ in Smögen (August, Discussant)
@@ -24,7 +27,6 @@ _2018:_ [_Financial Markets and Macroeconomic Performance_](https://safe-frankfu
 · [_SED Annual Meeting_](https://editorialexpress.com/conference/SED2018/program/SED2018.html#160) in Mexico City (June\*\*)
 · [CEPR _European Summer Symposium in Financial Markets_](https://cepr.org/5689) in Gerzensee (July, evening sessions)
 · [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2018/program/EEAESEM2018.html#196) in Cologne (August)
-· _Annual Meeting of the German Economic Association (VfS)_ in Freiburg (September\*\*)
 · _Winter Meeting of the Austrian Economic Association_ in Vienna (December)
 
 (*) scheduled

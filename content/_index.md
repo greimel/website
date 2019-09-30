@@ -11,7 +11,7 @@ I am a PhD Candidate in Economics at the University of Mannheim. I will be on th
 
 My job market paper argues that rising inequality fueled the American mortgage and house price booms prior to the financial crisis because households wanted to _keep up with the Joneses_. [more](/research/)
 
-Have a look at my [CV](/resume/)
+Have a look at my [CV](/resume/) or [download it](/static/CV.pdf). 
 
 ## _Research Fields_
 
