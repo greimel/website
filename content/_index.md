@@ -9,9 +9,9 @@ title: Home
 
 I am a PhD Candidate in Economics at the University of Mannheim. I will be on the job market this fall and available for interviews at the European Job Market for Economists in Rotterdam and the ASSA meetings in San Diego.
 
-My job market paper argues that rising inequality fueled the American mortgage and house price booms prior to the financial crisis because households wanted to _keep up with the Joneses_. [more](/research/)
+My job market paper argues that rising inequality fueled the American mortgage and house price booms prior to the financial crisis because households wanted to _keep up with the Joneses_.
 
-Have a look at my [CV](/resume/) or [download it](/static/CV.pdf). 
+Download my [Job Market Paper](https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides) and my [CV](/static/CV.pdf).
 
 ## _Research Fields_
 

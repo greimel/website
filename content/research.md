@@ -8,22 +8,26 @@ _Fields:_ Macroeconomics with heterogenous agents, Macro-Finance, Household fina
 
 _Topics:_ Housing and mortgage markets, income inequality, financial stability, financial crises
 
-_Technical:_ Numerical methods, quantitative modelling, free open source software (mostly Julia and R, [see my minor contributions to Julia packages](https://github.com/search?q=is%3Apr+author%3Agreimel+type%3Apr&type=Issues)), high performance computing (i.e. running parallelized programs on remote clusters), using [continuous integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) for reproducable research
+_Technical:_ Numerical methods, quantitative modelling, free open source software (mostly Julia and R, [see my minor contributions to Julia packages](https://github.com/search?q=is%3Apr+author%3Agreimel+type%3Apr&type=Issues)), high performance computing (i.e. running parallelized programs on remote clusters)
 
 ## _Projects_
 
-**Falling Behind: Has Rising Inequality Fueled the American Debt Boom 1980--2007?** -- **_Job market paper_** (joint with Moritz Drechsel-Grau)
+**Falling Behind: Has Rising Inequality Fueled the American Debt Boom 1980--2007?** -- **_Job market paper_** (joint with Moritz Drechsel-Grau) [[paper]](https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides)
+
+
 
 Abstract:
-_The household debt boom since 1980 is considered one of the main drivers of
-the Great Recession of 2007–9. In lockstep with household debt, income inequality
-has risen to new extremes. We build a model that links rising inequality to the
-mortgage debt boom. It builds on the old idea that people care about their social
-status. In an attempt to keep up with ever richer Joneses, the middle class substitutes
-status-enhancing houses for status-neutral consumption. These houses are mortgage-
-financed, creating a debt boom across the income distribution. In a simplified version of the model we show analytically that aggregate debt is increasing in top incomes (holding interest rates fixed). In a quantitative general equilibrium life-cycle version we show that "Keeping up with the Joneses" and rising inequality generate a sizable debt doom, of the same magnitude as the Global Saving Glut (the main alternative explanation for the debt boom). Additionally our mechanism matches the house price boom, while the Global Saving Glut does not._
+_The U.S. household debt boom since 1980 is considered one of the main drivers of
+the Great Recession of 2007–9. In lockstep with household debt, income inequality has
+risen to new extremes. We build a model that links rising inequality to the mortgage
+debt boom. It builds on the idea that households care about their social status. To
+keep up with the ever richer Joneses, the middle class substitutes status-enhancing
+houses for status-neutral consumption. These houses are mortgage-financed, creating
+a debt boom across the income distribution. Using a stylized model we show ana-
+lytically that aggregate debt increases as top incomes rise. In a quantitative general
+equilibrium model we show that “Keeping up with the Joneses” and rising income in-
+equality generate sizable booms in mortgage debt and house prices. By contrast, the Global Saving Glut hypothesis gives rise to a similar debt boom, but has a much weaker effect on house prices._
 
-Draft is coming soon.
 
 Presented at CEPR Frankfurt · SED Mexico · ESSFM Gerzensee · ESEM Cologne · VfS Freiburg · NOeG Winter Meeting Vienna · Frankfurt-Mannheim Macro · Stockholm University · CEPR Mannheim
 
