@@ -11,13 +11,14 @@ I am a PhD Candidate in Economics at the University of Mannheim. I will be on th
 
 My job market paper argues that rising inequality fueled the American mortgage and house price booms prior to the financial crisis because households wanted to _keep up with the Joneses_.
 
-Download my [Job Market Paper](/falling-behind/) and my [CV](/static/CV.pdf).
+Download my [Job Market Paper](https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides) and my [CV](/static/CV.pdf).
 
 ## _Research Fields_
 
 * Macroeconomics with heterogenous agents
 * Macro-Finance
 * Household finance
+* Computational Economics
 
  [more details](/research/)
 
@@ -35,5 +36,4 @@ email: fabian.greimel@gess.uni-mannheim.de
 
 Michèle Tertilt (co-advisor) \\
 Klaus Adam (co-advisor) \\
-Andreas Peichl \\
 Krzysztof Pytka
