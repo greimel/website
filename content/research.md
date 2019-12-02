@@ -4,7 +4,7 @@ title: Research
 
 ## _Research Interests_
 
-_Fields:_ Macroeconomics with heterogenous agents, Macro-Finance, Household finance
+_Fields:_ Macroeconomics with heterogeneous agents, Macro-Finance, Household finance
 
 _Topics:_ Housing and mortgage markets, income inequality, financial stability, financial crises
 

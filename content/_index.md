@@ -15,7 +15,7 @@ Download my [Job Market Paper](https://gitlab.com/drechsel-grau-greimel/public/b
 
 ## _Research Fields_
 
-* Macroeconomics with heterogenous agents
+* Macroeconomics with heterogeneous agents
 * Macro-Finance
 * Household finance
 * Computational Economics
