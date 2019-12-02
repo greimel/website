@@ -16,16 +16,18 @@ _Technical:_ Numerical methods, quantitative modelling, free open source softwar
 **_Job market paper_** [[paper]](https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides)
 
 Abstract:
-_The U.S. household debt boom since 1980 is considered one of the main drivers of
-the Great Recession of 2007–9. In lockstep with household debt, income inequality has
-risen to new extremes. We build a model that links rising inequality to the mortgage
-debt boom. It builds on the idea that households care about their social status. To
-keep up with the ever richer Joneses, the middle class substitutes status-enhancing
-houses for status-neutral consumption. These houses are mortgage-financed, creating
-a debt boom across the income distribution. Using a stylized model we show analytically that aggregate debt increases as top incomes rise. In a quantitative general
-equilibrium model we show that “Keeping up with the Joneses” and rising income in-
-equality generate sizable booms in mortgage debt and house prices. By contrast, the Global Saving Glut hypothesis gives rise to a similar debt boom, but has a much weaker effect on house prices._
-
+_We evaluate the hypothesis that rising inequality was a causal source of the US
+household debt boom since 1980. The mechanism builds on the observation that
+households care about their social status. To keep up with the ever richer Joneses,
+the middle class substitutes status-enhancing houses for status-neutral consumption.
+These houses are mortgage-financed, creating a debt boom across the income distribution.
+Using a stylized model we show analytically that aggregate debt increases as
+top incomes rise. In a quantitative general equilibrium model we show that Keeping
+up with the Joneses and rising income inequality generate 60% of the observed boom
+in mortgage debt and 50% of the house price boom. We compare this channel to two
+competing mechanisms. The Global Saving Glut hypothesis gives rise to a similar debt
+boom, but does not generate a house prices boom. Loosening collateral constraints
+does not generate booms in either debt or house prices._
 
 Presented at CEPR Frankfurt · SED Mexico · ESSFM Gerzensee · ESEM Cologne · VfS Freiburg · NOeG Winter Meeting Vienna · Frankfurt-Mannheim Macro · Stockholm University · CEPR Mannheim
 
