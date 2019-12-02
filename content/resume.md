@@ -35,10 +35,10 @@ _2018:_ [_Financial Markets and Macroeconomic Performance_](https://safe-frankfu
 
 ## _Contact_
 
-University of Mannheim \\
-Department of Economics \\
-L7 3-5, Room 204 \\
-68161 Mannheim \\
+University of Mannheim  
+Department of Economics  
+L7 3-5, Room 204  
+68161 Mannheim  
 Germany
 
 email: fabian.greimel@gess.uni-mannheim.de

@@ -24,16 +24,16 @@ Download my [Job Market Paper](https://gitlab.com/drechsel-grau-greimel/public/b
 
 ## _Contact_
 
-University of Mannheim \\
-Department of Economics \\
-L7 3-5, Room 204 \\
-68161 Mannheim \\
+University of Mannheim  
+Department of Economics  
+L7 3-5, Room 204  
+68161 Mannheim  
 Germany
 
 email: fabian.greimel@gess.uni-mannheim.de
 
 ## _References_
 
-Michèle Tertilt (co-advisor) \\
-Klaus Adam (co-advisor) \\
+Michèle Tertilt (co-advisor)  
+Klaus Adam (co-advisor)  
 Krzysztof Pytka

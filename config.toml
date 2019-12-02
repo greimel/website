@@ -33,6 +33,12 @@ footnotereturnlinkcontents = "↩"
     url = "/resume/"
     weight = 50
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "&copy; [Fabian Greimel](/) 2019 | [Github](https://github.com/greimel) | [Gitlab](https://gitlab.com/greimel)"

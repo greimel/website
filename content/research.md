@@ -12,7 +12,7 @@ _Technical:_ Numerical methods, quantitative modelling, free open source softwar
 
 ## _Projects_
 
-**Falling Behind: Has Rising Inequality Fueled the American Debt Boom?** (joint with Moritz Drechsel-Grau) \\
+**Falling Behind: Has Rising Inequality Fueled the American Debt Boom?** (joint with Moritz Drechsel-Grau)  
 **_Job market paper_** [[paper]](https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides)
 
 Abstract:
@@ -29,7 +29,7 @@ equality generate sizable booms in mortgage debt and house prices. By contrast, 
 
 Presented at CEPR Frankfurt · SED Mexico · ESSFM Gerzensee · ESEM Cologne · VfS Freiburg · NOeG Winter Meeting Vienna · Frankfurt-Mannheim Macro · Stockholm University · CEPR Mannheim
 
-**Understanding Housing Wealth Effects: Debt, Homeownership and the Lifecycle** (joint with Frederick Zadow) \\
+**Understanding Housing Wealth Effects: Debt, Homeownership and the Lifecycle** (joint with Frederick Zadow)  
 [[paper]](https://gitlab.com/greimel-zadow/public/builds/artifacts/master/raw/housing-wealth-effects/paper/paper.pdf?job=compile_pdfs)
 [[slides]](https://gitlab.com/greimel-zadow/public/builds/artifacts/master/raw/housing-wealth-effects/slides/slides.pdf?job=compile_pdfs)
 
