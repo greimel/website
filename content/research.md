@@ -14,6 +14,7 @@ _Technical:_ Numerical methods, quantitative modelling, free open source softwar
 
 **Falling Behind: Has Rising Inequality Fueled the American Debt Boom?** (joint with Moritz Drechsel-Grau)  
 **_Job market paper_** [[paper]](https://gitlab.com/drechsel-grau-greimel/public/builds/artifacts/master/raw/falling-behind/paper/falling-behind-paper.pdf?job=compile_pdf_slides)
+[[slides]](/static/falling-behind-slides.pdf)
 [[poster]](/static/poster.pdf)
 
 Abstract:
