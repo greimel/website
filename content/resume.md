@@ -14,21 +14,24 @@ title: Background
 
 ## _Talks and Discussions_
 
-_2020_: _AEA_ in San Diego (January\*, Poster)
-· _AFA_ in San Diego (January\*, Poster)
+_2020_: _AEA_ in San Diego (Poster)
+ · _AFA_ in San Diego (Poster)
+ · _University of Amsterdam_
+ · _University of Bologna_
+ · _Western Finance Association_ in San Francisco (\*)
 
-_2019:_ _Mannheim-Frankfurt Macro Workshop_ (March)
- · _Stockholm University_ (May)
- · _Nordic Macro Symposium_ in Smögen (August, Discussant)
- · [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2019/program/EEAESEM2019#241) in Manchester (August) 
- · _New Approaches for Understanding Business Cycles_ (CEPR Conference in Mannheim, August, Poster)
- · _European Winter Meeting of the Econometric Society_ in Rotterdam (December\*) 
+_2019:_ _Mannheim-Frankfurt Macro Workshop_
+ · _Stockholm University_
+ · _Nordic Macro Symposium_ in Smögen (Discussant)
+ · [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2019/program/EEAESEM2019#241) in Manchester 
+ · _New Approaches for Understanding Business Cycles_ (CEPR, Mannheim, Poster)
+ · _European Winter Meeting of the Econometric Society_ in Rotterdam 
 
-_2018:_ [_Financial Markets and Macroeconomic Performance_](https://safe-frankfurt.de/fileadmin/user_upload/editor_common/Events/2018_DFG/Program_Macro_2018.pdf) (CEPR Conference in Frankfurt, May, Poster)
-· [_SED Annual Meeting_](https://editorialexpress.com/conference/SED2018/program/SED2018.html#160) in Mexico City (June\*\*)
-· [CEPR _European Summer Symposium in Financial Markets_](https://cepr.org/5689) in Gerzensee (July, evening sessions)
-· [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2018/program/EEAESEM2018.html#196) in Cologne (August)
-· _Winter Meeting of the Austrian Economic Association_ in Vienna (December)
+_2018:_ [_Financial Markets and Macroeconomic Performance_](https://safe-frankfurt.de/fileadmin/user_upload/editor_common/Events/2018_DFG/Program_Macro_2018.pdf) (CEPR, Frankfurt, Poster)
+· [_SED Annual Meeting_](https://editorialexpress.com/conference/SED2018/program/SED2018.html#160) in Mexico City (\*\*)
+· [CEPR _European Summer Symposium in Financial Markets_](https://cepr.org/5689) in Gerzensee (evening sessions)
+· [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2018/program/EEAESEM2018.html#196) in Cologne
+· _Winter Meeting of the Austrian Economic Association_ in Vienna
 
 (*) scheduled
 (**) my JMP presented by my co-author Moritz
