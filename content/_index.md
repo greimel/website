@@ -9,7 +9,7 @@ title: Home
 _Assistant Professor of Economics_ \
 University of Amsterdam
 
-[Curriculum Vitae](/static/CV.pdf)
+[Curriculum Vitae](/static/cv.pdf)
 
 ## _Research Fields_
 
