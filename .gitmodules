@@ -2,4 +2,4 @@
 	path = public
 	url = https://github.com/greimel/greimel.eu
 [submodule "themes/hugo-xmin"]
-	url = https://github.com/greimel/hugo-xmin.git
+	url = https://github.com/yihui/hugo-xmin
