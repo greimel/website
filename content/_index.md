@@ -38,9 +38,9 @@ _We evaluate the hypothesis that rising inequality was a causal source of the US
 <br>
 
 <div>
-<b> Understanding Housing Wealth Effects: Debt, Homeownership and the Lifecycle </b> (November 2019) <br>
+<b> Understanding Housing Wealth Effects: Debt, Homeownership and the Lifecycle </b> (June 2020) <br>
 with Frederick Zadow
-<a href=https://gitlab.com/greimel-zadow/public/builds/artifacts/master/raw/housing-wealth-effects/paper/paper.pdf?job=compile_pdfs>[paper]</a>
+<a href=/static/housing-wealth-effects-paper.pdf>[paper]</a>
 <a href=https://gitlab.com/greimel-zadow/public/builds/artifacts/master/raw/housing-wealth-effects/slides/slides.pdf?job=compile_pdfs>[slides]</a>
 <details><summary>[Abstract]</summary>
 
