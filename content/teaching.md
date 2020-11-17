@@ -6,15 +6,33 @@ title: Teaching
 
 * Fall _2020_: Microeconomics -- Undergraduate -- U Amsterdam
   
-  Here are some Pluto.jl notebooks that illustrate some of the material. The notebooks are hosted on binder, which runs the notebooks live once you click on the link. Loading Julia, Pluto.jl and the notebook on binder takes about 30 seconds. 
+  Here are some Pluto.jl notebooks that illustrate some of the material. The notebooks are hosted on binder, which runs the notebooks live once you click on the link.
   
-  * [Oct 27] [two-variables.jl](https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Ftwo-variables.jl)
-
-  * [not shown in class] [linear-approximation.jl](https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Flinear-approximation.jl)
-
-  * [Nov 9] [demand.jl](https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Fdemand.jl)
-
-    Note that there is an issue with using SymPy.jl on binder. Uncomment the second cell. Building takes three minutes. 
+  Loading Julia, Pluto.jl and the notebook on binder takes about 30 seconds. Note that some notebooks take up to 5 min to load because all packages are freshly installed and precompiled in the cloud.
+  
+  * Functions of two variables (Oct 27) 
+  [[interactive notebook]](
+      https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Ftwo-variables.jl
+  )
+  * Linear approximation (Oct 29) 
+  [[interactive notebook]](
+      https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Flinear-approximation.jl
+  )
+  * Demand (Nov 10) 
+  [[static preview]](/static/demand.jl.html)
+  [[interactive notebook]](
+        https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Fdemand.jl
+  )
+  * Supply (Nov 12)
+  [[static preview]](/static/supply.jl.html)
+  [[interactive notebook]](
+          https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Fsupply.jl
+  )
+  * Equilibrium (Nov 19) 
+  [[static preview]](/static/equilibrium.jl.html)
+  [[interactive notebook]](
+            https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%253A%252F%252Fgitlab.com%252Fgreimel%252Fteaching-notes%252F-%252Fraw%252Fmaster%252Fequilibrium.jl
+  )
 
 ## Future
 
