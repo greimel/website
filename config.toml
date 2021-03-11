@@ -42,4 +42,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Fabian Greimel](/) 2019-2020 | [Github](https://github.com/greimel) | [Gitlab](https://gitlab.com/greimel)"
+    footer = "&copy; [Fabian Greimel](/) 2019-2021 | [Github](https://github.com/greimel) | [Gitlab](https://gitlab.com/greimel)"
