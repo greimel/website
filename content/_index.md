@@ -21,7 +21,7 @@ Computational Economics
 ## _Research Projects_
 
 <div>
-<b> Falling Behind: Has Rising Inequality Fueled the American Debt Boom? </b> (August 2020) <br>
+<b> Falling Behind: Has Rising Inequality Fueled the American Debt Boom? </b> (May 2021) <br>
 with <a href=https://www.moritzdrechselgrau.com>Moritz Drechsel-Grau</a>
 <a href=/static/falling-behind-paper.pdf>[paper]</a>
 <a href=/static/falling-behind-slides.pdf>[slides]</a>
