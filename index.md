@@ -3,6 +3,8 @@
 @def hascode = true
 
 
+\circularimage{assets/portrait.jpg}{That's me!}
+
 # Franklin syntax sandbox
 
 This page is meant as a sandbox for Franklin Syntax so that you can quickly practice or experience things.

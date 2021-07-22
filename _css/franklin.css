@@ -115,13 +115,12 @@ body {
     TITLES
 ================================================================== */
 
-.franklin-content h1,
-h2,
+.franklin-content h2,
 h3,
 h4,
 h5,
 h6 {
-  text-align: left;
+  font-style: italic;
 }
 
 .franklin-content h1 a { color: inherit; }
@@ -233,13 +232,17 @@ td {
 .franklin-content img {
   width: 70%;
   text-align: center;
-  padding-left: 10%;
+  padding-left: 0%;
 }
 
 .franklin-content .img-small img {
   width: 50%;
   text-align: center;
-  padding-left: 20%;
+  padding-left: 0%;
+}
+
+.circular--square {
+  border-radius: 50%;
 }
 
 /* ==================================================================
@@ -352,11 +355,4 @@ summary:hover {
 summary::-webkit-details-marker { /* to remove triangle  */
   display: inline-flex;
   display: none;
-}
-
-
-/* picture */
-
-.circular--square {
-  border-radius: 50%;
 }
