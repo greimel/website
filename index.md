@@ -32,3 +32,5 @@ Surely some people remember the ordering, but I always forget:
 $$ \varphi(\E[X]) \le \E[\varphi(X)] $$
 
 for $\varphi$ convex.
+
+[[bla]](www.google.com)
