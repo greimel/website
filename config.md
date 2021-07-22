@@ -22,3 +22,4 @@
     }
 
 @def generate_rss = false
+@def prepath = "new-website"
