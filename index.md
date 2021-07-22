@@ -34,3 +34,5 @@ $$ \varphi(\E[X]) \le \E[\varphi(X)] $$
 for $\varphi$ convex.
 
 [[bla]](www.google.com)
+
+\details{Read on!}{But here's the full story.}

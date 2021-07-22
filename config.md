@@ -1,6 +1,11 @@
 @def author = "The Oracle"
 
-\newcommand{\R}{\mathbb R}
-\newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\details}[2]{
+    ~~~
+    <details> <summary> #1 </summary>
+     #2
+    </details>
+    ~~~
+}
 
 @def generate_rss = false

@@ -324,11 +324,7 @@ code {
 
 details {
   display: inline-flex;
-/*  color: red; */
   padding: 0;
-/*  background-color: #f1f1f1; */
-/*  cursor: pointer; */
-
 }
 
 details > p {
@@ -340,7 +336,7 @@ details > p {
 
 }
 
-details > summary {
+summary {
   display: inline-flex;
   background: none;
   color: green;
@@ -348,10 +344,16 @@ details > summary {
   outline: none;
   cursor: pointer;
 }
-details > summary::-webkit-details-marker { /* to remove triangle  */
+
+summary:hover {
+	text-decoration: underline;
+}
+ 
+summary::-webkit-details-marker { /* to remove triangle  */
   display: inline-flex;
   display: none;
 }
+
 
 /* picture */
 
