@@ -1,13 +1,13 @@
----
-title: Teaching
----
+@def title = "Teaching"
+
+# Teaching
 
 ## Current
 
 * _since 2021_: Networks in Economics and Finance *(Master)* --- U Amsterdam ---    
     [course material on Github](https://github.com/greimel/networks-course)
 
-* _since 2020_: Microeconomics *(Bachelor)* --- U Amsterdam
+* _since 2020_: Microeconomics *(Tutorials, Bachelor)* --- U Amsterdam
  
 ## Future
 
