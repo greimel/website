@@ -23,7 +23,7 @@ println(sum(ai * bi for (ai, bi) ∈ zip(a, b)))
 
 (yet another example that floating point arithmetics can be complicated).
 
-$$ \forall x \in \R:\quad \scal{x, x} \ge 0 $$
+$$ \forall x \in \mathbb{R}:\quad ⟨ x, x ⟩ \ge 0 $$
 
 \newcommand{\E}{\mathbb E}
 
