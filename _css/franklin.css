@@ -13,10 +13,19 @@
     DEFAULT FONT AND LAYOUT
 ================================================================== */
 
-html {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: var(--normal);
-  color: var(--text-color);
+body {
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+}
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}
+
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
 }
 
 /* ==================================================================
@@ -60,7 +69,7 @@ html {
 
 .page-foot {
   font-size: 80%;
-  font-family: Arial, serif;
+  /* font-family: Arial, serif; */
   color: #a6a2a0;
   text-align: center;
   margin-top: 6em;
@@ -106,10 +115,6 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 24px; }
-.franklin-content h2 { font-size: 22px; }
-.franklin-content h3 { font-size: 20px; }
-
 .franklin-content h1,
 h2,
 h3,
@@ -117,20 +122,6 @@ h4,
 h5,
 h6 {
   text-align: left;
-}
-
-.franklin-content h1 {
-  padding-bottom: 0.5em;
-  border-bottom: 3px double lightgrey;
-  margin-top: 1.5em;
-  margin-bottom: 1em;
-}
-
-.franklin-content h2 {
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid lightgrey;
-  margin-top: 2em;
-  margin-bottom: 1em;
 }
 
 .franklin-content h1 a { color: inherit; }
@@ -182,7 +173,7 @@ td {
 
 /* Spacing between bullet points. */
 .franklin-content li p {
-  margin: 10px 0;
+  margin: 0px 0;
 }
 
 .franklin-content a {
@@ -327,4 +318,43 @@ code {
   margin-bottom: 5px;
   border-radius: 0 10px 10px 0;
   border-left: 5px solid #4c9cf1;
+}
+
+/* Summary - Details */
+
+details {
+  display: inline-flex;
+/*  color: red; */
+  padding: 0;
+/*  background-color: #f1f1f1; */
+/*  cursor: pointer; */
+
+}
+
+details > p {
+  display: inline-flex;
+/*  color: red; */
+  padding: 0;
+  background-color: #f1f1f1;
+/*  cursor: pointer; */
+
+}
+
+details > summary {
+  display: inline-flex;
+  background: none;
+  color: green;
+  list-style: none; /* to remove triangle */
+  outline: none;
+  cursor: pointer;
+}
+details > summary::-webkit-details-marker { /* to remove triangle  */
+  display: inline-flex;
+  display: none;
+}
+
+/* picture */
+
+.circular--square {
+  border-radius: 50%;
 }
