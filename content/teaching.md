@@ -9,9 +9,11 @@ title: Teaching
 
 * _since 2020_: Microeconomics *(Bachelor)* --- U Amsterdam
  
+<!-- 
 ## Future
 
 * _from Spring 2022_: Macro-Finance *(PhD)* --- Tinbergen Institute
+-->
 
 ## Past  
 * _2018--2020_: TA for Economic Policy (mechanism design, political economy, applications in monetary, fiscal, growth and competition policies, taught by Hans Peter Grüner) -- Undergraduate --- U Mannheim

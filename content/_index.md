@@ -13,9 +13,9 @@ University of Amsterdam
 
 ## _Research Fields_
 
-Macroeconomics with heterogeneous agents ·
+Distributional Macroeconomics ·
 Macro-Finance ·
-Household finance ·
+Household Finance ·
 Computational Economics
 
 ## _Research Projects_
@@ -70,12 +70,17 @@ _2018:_ [_Financial Markets and Macroeconomic Performance_](https://safe-frankfu
 · [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2018/program/EEAESEM2018.html#196) in Cologne
 · _Winter Meeting of the Austrian Economic Association_ in Vienna
 
-## _Academic Background_
+## _Academic Positions_
 
-* _2015--2020_: PhD in Economics --- U Mannheim
-* _2016--2017_: Visiting PhD student at Yale U
-* _2013--2015_: MSc in Economics --- Institute for Advanced Studies, Vienna (IHS) and Vienna University of Technology (joint degree)
-* _2010--2013_: BSc in Economics --- Vienna University of Economics and Business
+* _since 2020:_ Assistant Professor --- University of Amsterdam
+* _since 2021:_ Candidate Fellow --- Tinbergen Institute
+
+## _Education_
+
+* _2015--2020_: PhD in Economics --- University of Mannheim
+* _2016--2017_: Visiting PhD student at Yale University
+* _2013--2015_: MSc in Economics --- Institute for Advanced Studies (IHS), Vienna
+* _2010--2013_: BSc in Economics --- University of Economics and Business (WU), Vienna
 
 ## _Contact_
 
