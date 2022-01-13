@@ -21,7 +21,7 @@ Computational Economics
 \paper{
     Falling Behind: Has Rising Inequality Fueled the American Debt Boom?
 }{
-    May 2021
+    September 2021
 }{
     [Moritz Drechsel-Grau](https://www.moritzdrechselgrau.com)
 }{
