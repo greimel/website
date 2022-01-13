@@ -1,5 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/greimel/greimel.eu
-[submodule "themes/hugo-xmin"]
-	url = https://github.com/greimel/hugo-xmin
