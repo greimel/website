@@ -3,18 +3,13 @@ title: Teaching
 ---
 
 ## Current
+* _from 2021/22_: Topics in Distributional Macroeconomics *(PhD)* --- Tinbergen Institute (Amsterdam)
 
-* _since 2021_: Networks in Economics and Finance *(Master)* --- U Amsterdam ---    
-    [course material on Github](https://github.com/greimel/networks-course)
+* _since 2020/21_: Networks in Economics and Finance *(Master)* --- U Amsterdam ---    
+    [course website](https://greimel.github.io/networks-course)
 
-* _since 2020_: Microeconomics *(Bachelor)* --- U Amsterdam
+* _since 2020/21_: Microeconomics *(Bachelor)* --- U Amsterdam
  
-<!-- 
-## Future
-
-* _from Spring 2022_: Macro-Finance *(PhD)* --- Tinbergen Institute
--->
-
 ## Past  
 * _2018--2020_: TA for Economic Policy (mechanism design, political economy, applications in monetary, fiscal, growth and competition policies, taught by Hans Peter Grüner) -- Undergraduate --- U Mannheim
 * _2015_: TA for Mathematics 2 (topological, metric, normed spaces; correspondences; convexity) --- Graduate --- IHS Vienna
