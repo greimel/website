@@ -52,22 +52,27 @@ Computational Economics
 
 ## Talks and Discussions
 
+_2022_: _T2M Conference_ in London
+ · _Behavioral Macroeconomics Workshop_ in Bamberg
+
+_2021_: _University of Vienna_
+
 _2020_: _AEA_ in San Diego (Poster)
  · _AFA_ in San Diego (Poster)
  · _University of Amsterdam_
  · _University of Bologna_
- · virtual _Western Finance Association_
+ · virtual meeting of the _Western Finance Association_
 
 _2019:_ _Mannheim-Frankfurt Macro Workshop_
  · _Stockholm University_
  · _Nordic Macro Symposium_ in Smögen (Discussant)
- · [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2019/program/EEAESEM2019#241) in Manchester
+ · _Econometric Society European Meeting_ in Manchester
  · _New Approaches for Understanding Business Cycles_ (CEPR, Mannheim, Poster)
  · _European Winter Meeting of the Econometric Society_ in Rotterdam
 
-_2018:_ [_Financial Markets and Macroeconomic Performance_](https://safe-frankfurt.de/fileadmin/user_upload/editor_common/Events/2018_DFG/Program_Macro_2018.pdf) (CEPR, Frankfurt, Poster)
+_2018:_ _Financial Markets and Macroeconomic Performance_ (CEPR, Frankfurt, Poster)
 · [CEPR _European Summer Symposium in Financial Markets_](https://cepr.org/5689) in Gerzensee (evening sessions)
-· [_Econometric Society European Meeting_](https://editorialexpress.com/conference/EEAESEM2018/program/EEAESEM2018.html#196) in Cologne
+· _Econometric Society European Meeting_ in Cologne
 · _Winter Meeting of the Austrian Economic Association_ in Vienna
 
 ## Academic Positions
