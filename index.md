@@ -54,6 +54,7 @@ Computational Economics
 
 _2022_: _T2M Conference_ in London
  · _Behavioral Macroeconomics Workshop_ in Bamberg
+ · _Austrian Economic Association_ in Vienna
 
 _2021_: _University of Vienna_
 
