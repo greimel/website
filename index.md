@@ -34,6 +34,8 @@ Computational Economics
     }
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
+
+   *2022 Young Economist Award of the Austrian Economic Association*
 }
 
 ~~~<br><br>~~~
@@ -52,9 +54,12 @@ Computational Economics
 
 ## Talks and Discussions
 
+_2023 (scheduled)_: _TU Vienna_
+
 _2022_: _T2M Conference_ in London
  · _Behavioral Macroeconomics Workshop_ in Bamberg
  · _Austrian Economic Association_ in Vienna
+ · _Tilburg University_
 
 _2021_: _University of Vienna_
 
