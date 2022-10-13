@@ -34,7 +34,7 @@ Computational Economics
     }
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
-
+    ~~~<br>~~~
    *2022 Young Economist Award of the Austrian Economic Association*
 }
 
@@ -50,6 +50,38 @@ Computational Economics
     [[paper]](/assets/housing-wealth-effects-paper.pdf)
     [[slides]](https://gitlab.com/greimel-zadow/public/builds/artifacts/master/raw/housing-wealth-effects/slides/slides.pdf?job=compile_pdfs)
     \abstract{Housing wealth effects---the reaction of consumption to changes in house prices---were at the heart of the Great Recession. Empirical and quantitative macroeconomic studies have found that housing wealth effects are stronger for more indebted households. One important policy implication is that lowering debt limits for borrowers will dampen the consumption slump in a house price bust. Such conclusions might be premature. We build a simple life-cycle model with housing with closed form solutions for housing wealth effects. We show that the strength of housing wealth effects crucially depends on the underlying household characteristics which also determine the debt levels. In this framework imposing one-size-fits-all debt limits does not necessarily mitigate housing wealth effects. To be effective, policies have to be tailored to borrowers' characteristics. Aggregate housing wealth effects can be reduced in three ways: (i) if old homeowners reduce their housing wealth; (ii) if the home ownership rate decreases; (iii) if agents have smaller houses. We provide a simple empirical test of our model predictions. When explaining housing wealth effects, we find that the level of mortgages turns statistically insignificant once relevant household characteristics (age and a proxy for housing preferences) are added.}
+}
+
+~~~<br><br>~~~
+
+\solopaper{
+    The Role of Firms for Financial Contagion
+}{
+    Work in Progress
+}{
+    \abstract{A financial network becomes more resilient to large shocks when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper discusses under which conditions shocks can travel across these components when banks of different components lend to the same firm.}
+}
+
+~~~<br><br>~~~
+
+\solopaper{
+    Home-Biased Landlords: Rents Too High But Yields Too Low
+}{
+    Work in Progress
+}{
+    \abstract{Arbitrage dictates that returns on assets equalize. This is not the case for real estate, where returns are comparatively low in "Superstar Cities". One explanation for this anomaly is home-bias of investors. This paper discusses how home-bias of investors drives up prices and rents in big cities while investors loose out on higher returns they could have made by investing elsewhere.}
+}
+
+~~~<br><br>~~~
+
+\paper{
+    Do Banks Shape Markets?
+}{
+    Work in Progress
+}{
+    [Enrico Camarda](https://www.enricocamarda.com/home)
+}{
+    \abstract{Akin to the common ownership problem, a bank that is the dominant lender of a certain market might act anti-competitively to maximize the joint value of its lending relationships. We study if dominant banks do indeed exhibit such behavior: Do dominant banks try to prevent potential competitors of their clients to enter? Do dominant banks drive firms out of a sector to increase mark-ups?}
 }
 
 ## Talks and Discussions
@@ -83,15 +115,15 @@ _2018:_ _Financial Markets and Macroeconomic Performance_ (CEPR, Frankfurt, Post
 
 ## Academic Positions
 
-* _since 2020:_ Assistant Professor --- University of Amsterdam
-* _since 2021:_ Candidate Fellow --- Tinbergen Institute
+* _since 2020:_ Assistant Professor -- University of Amsterdam
+* _since 2021:_ Candidate Fellow -- Tinbergen Institute
 
 ## Education
 
-* _2015--2020_: PhD in Economics --- University of Mannheim
+* _2015--2020_: PhD in Economics -- University of Mannheim
 * _2016--2017_: Visiting PhD student at Yale University
-* _2013--2015_: MSc in Economics --- Institute for Advanced Studies (IHS), Vienna
-* _2010--2013_: BSc in Economics --- University of Economics and Business (WU), Vienna
+* _2013--2015_: MSc in Economics -- Institute for Advanced Studies (IHS), Vienna
+* _2010--2013_: BSc in Economics -- University of Economics and Business (WU), Vienna
 
 ## Contact
 

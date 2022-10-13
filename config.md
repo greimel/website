@@ -21,4 +21,8 @@
     with #3 #4
     }
 
+\newcommand{\solopaper}[3]{
+    **!#1** (!#2) #3
+    }
+
 @def generate_rss = false
