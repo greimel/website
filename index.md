@@ -16,6 +16,13 @@ Macro-Finance ·
 Household Finance ·
 Computational Economics
 
+> ## Upcoming Workshop on _Redistributive Trends_ 
+>
+> * on December 2 in Amsterdam [(details and program)](https://tinbergen.nl/event/2022/12/02/11899/workshop-on-redistributive-trends-macro-finance-and-central-banking)
+> * Keynote speakers: Ben Moll and Moritz Schularick
+> * Other speakers: Clara Martinez-Toledano, Rene Stulz, Viral Acharya, Ludwig Straub
+> * Organizers: Enrico Perotti, Fabian Greimel, Yasmine van der Straten
+
 ## Research Projects
 
 \paper{
