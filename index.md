@@ -66,6 +66,7 @@ Computational Economics
 }{
     Work in Progress
 }{
+    [[slides]](/assets/firms-contagion-slides.pdf)
     \abstract{A financial network becomes more resilient to large shocks when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper discusses under which conditions shocks can travel across these components when banks of different components lend to the same firm.}
 }
 
