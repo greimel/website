@@ -16,9 +16,9 @@ Macro-Finance ·
 Household Finance ·
 Computational Economics
 
-> ## Upcoming Workshop on _Redistributive Trends_ 
+> ## Workshop on _Redistributive Trends_ 
 >
-> * on December 2 in Amsterdam [(details and program)](https://tinbergen.nl/event/2022/12/02/11899/workshop-on-redistributive-trends-macro-finance-and-central-banking)
+> * on December 2, 2022 in Amsterdam [(details and program)](https://tinbergen.nl/event/2022/12/02/11899/workshop-on-redistributive-trends-macro-finance-and-central-banking)
 > * Keynote speakers: Ben Moll and Moritz Schularick
 > * Other speakers: Clara Martinez-Toledano, Rene Stulz, Viral Acharya, Ludwig Straub
 > * Organizers: Enrico Perotti, Fabian Greimel, Yasmine van der Straten
@@ -94,12 +94,14 @@ Computational Economics
 
 ## Talks and Discussions
 
-_2023 (scheduled)_: _TU Vienna_
+_2023_: _TU Vienna_
+ · _Dutch Institute for Emergent Phenomena_ in Amsterdam
 
 _2022_: _T2M Conference_ in London
  · _Behavioral Macroeconomics Workshop_ in Bamberg
  · _Austrian Economic Association_ in Vienna
  · _Tilburg University_
+ · _4th Winter Meeting of the Austrian Economic Association_ in Vienna
 
 _2021_: _University of Vienna_
 
@@ -119,7 +121,7 @@ _2019:_ _Mannheim-Frankfurt Macro Workshop_
 _2018:_ _Financial Markets and Macroeconomic Performance_ (CEPR, Frankfurt, Poster)
 · [CEPR _European Summer Symposium in Financial Markets_](https://cepr.org/5689) in Gerzensee (evening sessions)
 · _Econometric Society European Meeting_ in Cologne
-· _Winter Meeting of the Austrian Economic Association_ in Vienna
+· _2nd Winter Meeting of the Austrian Economic Association_ in Vienna
 
 ## Academic Positions
 
