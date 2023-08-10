@@ -28,7 +28,7 @@ Computational Economics
 \paper{
     Falling Behind: Has Rising Inequality Fueled the American Debt Boom?
 }{
-    September 2021 -- update coming soon
+    August 2023 -- major update
 }{
     [Moritz Drechsel-Grau](https://www.moritzdrechselgrau.com)
 }{
@@ -36,8 +36,9 @@ Computational Economics
     [[slides]](/assets/falling-behind-slides.pdf)
     [[poster]](/assets/poster.pdf)
     [[two-minute video]](https://www.aeaweb.org/conference/videos/2020/fabian-greimel)
+    [[old version with Huggett-type model]](/assets/falling-behind-paper-old.pdf)
     \abstract{
-        We evaluate the hypothesis that rising inequality was a causal source of the US household debt boom since 1980. The mechanism builds on the observation that households care about their social status. To keep up with the ever richer Joneses, the middle class substitutes status-enhancing houses for status-neutral consumption. These houses are mortgage-financed, creating a debt boom across the income distribution. Using a stylized model we show analytically that aggregate debt increases as top incomes rise. In a quantitative general equilibrium model we show that Keeping up with the Joneses and rising income inequality generate 60% of the observed boom in mortgage debt and 50% of the house price boom. We compare this channel to two competing mechanisms. The Global Saving Glut hypothesis gives rise to a similar debt boom, but does not generate a house prices boom. Loosening collateral constraints does not generate booms in either debt or house prices. Finally, we provide novel empirical evidence on the relationship between top incomes and household debt. Mortgage debt rose substantially more in US states that experienced stronger growth in top incomes. There is no such relationship between top incomes and non-mortgage debt. These findings support to the importance of the comparisons channel.
+        This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the US between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize up to a quarter of the observed debt boom.
     }
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
