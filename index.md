@@ -28,7 +28,7 @@ Computational Economics
 \paper{
     Falling Behind: Has Rising Inequality Fueled the American Debt Boom?
 }{
-    August 2023 -- major update
+    August 2023 -- _major update_
 }{
     [Moritz Drechsel-Grau](https://www.moritzdrechselgrau.com)
 }{
@@ -40,6 +40,8 @@ Computational Economics
     \abstract{
         This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the US between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize up to a quarter of the observed debt boom.
     }
+    ~~~<br>~~~
+   _revise & resubmit at the **Review of Financial Studies**_
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
     ~~~<br>~~~
@@ -63,9 +65,9 @@ Computational Economics
 ~~~<br><br>~~~
 
 \solopaper{
-    The Role of Firms for Financial Contagion
+    Firm-borne Financial Contagion: When Rollover Risk Ripples
 }{
-    Work in Progress
+    draft coming soon
 }{
     [[slides]](/assets/firms-contagion-slides.pdf)
     \abstract{A financial network becomes more resilient to large shocks when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper discusses under which conditions shocks can travel across these components when banks of different components lend to the same firm.}
@@ -97,11 +99,14 @@ Computational Economics
 
 _2023_: _TU Vienna_
  · _Dutch Institute for Emergent Phenomena_ in Amsterdam
+ · _KVS New Paper Sessions_ in Den Haag (invited session, _cancelled_)
+ · _Austrian Economic Association_ in Salzburg
 
 _2022_: _T2M Conference_ in London
  · _Behavioral Macroeconomics Workshop_ in Bamberg
  · _Austrian Economic Association_ in Vienna
  · _Tilburg University_
+ · _Workshop on Redistributive Trends_ in Amsterdam (Co-Organizer)
  · _4th Winter Meeting of the Austrian Economic Association_ in Vienna
 
 _2021_: _University of Vienna_
