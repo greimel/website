@@ -25,6 +25,18 @@ Computational Economics
 
 ## Research Projects
 
+\solopaper{
+    Firm-borne Financial Contagion: When Rollover Risk Ripples
+}{
+    January 2024
+}{
+    [[paper]](/assets/rollover-risk-ripples-paper.pdf)
+    [[slides]](/assets/rollover-risk-ripples-slides.pdf)
+    \abstract{ A financial network becomes more _resilient to large shocks_ when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper shows that shocks can travel across unconnected components if firms have multiple lenders and both short-term and long-term debt. Because of their short-term debt, firms are subject to rollover risk. When Bank $S$ does not rollover (withdraw) their short-term loan the firm might be forced to suspend its long-run debt service with its _other lender_ Bank $L$. _The roll-over risk ripples:_ a financial shock to one bank ($S$) travels to another bank ($L$), that need not be connected on the interbank market. I show that the shock will reach Bank $L$ if three conditions are satisfied. First, the firm's _reliance on short-term debt_ must be in an intermediate range. Second, Bank $S$ provides a big enough share of the firm's short-term debt. And third, Bank $L$ provides a big enough share of the firm's long-term debt.}
+}
+
+~~~<br><br>~~~
+
 \paper{
     Falling Behind: Has Rising Inequality Fueled the American Debt Boom?
 }{
@@ -60,17 +72,6 @@ Computational Economics
     [[paper]](/assets/housing-wealth-effects-paper.pdf)
     [[slides]](https://gitlab.com/greimel-zadow/public/builds/artifacts/master/raw/housing-wealth-effects/slides/slides.pdf?job=compile_pdfs)
     \abstract{Housing wealth effects---the reaction of consumption to changes in house prices---were at the heart of the Great Recession. Empirical and quantitative macroeconomic studies have found that housing wealth effects are stronger for more indebted households. One important policy implication is that lowering debt limits for borrowers will dampen the consumption slump in a house price bust. Such conclusions might be premature. We build a simple life-cycle model with housing with closed form solutions for housing wealth effects. We show that the strength of housing wealth effects crucially depends on the underlying household characteristics which also determine the debt levels. In this framework imposing one-size-fits-all debt limits does not necessarily mitigate housing wealth effects. To be effective, policies have to be tailored to borrowers' characteristics. Aggregate housing wealth effects can be reduced in three ways: (i) if old homeowners reduce their housing wealth; (ii) if the home ownership rate decreases; (iii) if agents have smaller houses. We provide a simple empirical test of our model predictions. When explaining housing wealth effects, we find that the level of mortgages turns statistically insignificant once relevant household characteristics (age and a proxy for housing preferences) are added.}
-}
-
-~~~<br><br>~~~
-
-\solopaper{
-    Firm-borne Financial Contagion: When Rollover Risk Ripples
-}{
-    draft coming soon
-}{
-    [[slides]](/assets/firms-contagion-slides.pdf)
-    \abstract{A financial network becomes more resilient to large shocks when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper discusses under which conditions shocks can travel across these components when banks of different components lend to the same firm.}
 }
 
 ~~~<br><br>~~~
@@ -125,7 +126,7 @@ _2019:_ _Mannheim-Frankfurt Macro Workshop_
  · _European Winter Meeting of the Econometric Society_ in Rotterdam
 
 _2018:_ _Financial Markets and Macroeconomic Performance_ (CEPR, Frankfurt, Poster)
-· [CEPR _European Summer Symposium in Financial Markets_](https://cepr.org/5689) in Gerzensee (evening sessions)
+· CEPR _European Summer Symposium in Financial Markets_ in Gerzensee (evening sessions)
 · _Econometric Society European Meeting_ in Cologne
 · _2nd Winter Meeting of the Austrian Economic Association_ in Vienna
 
