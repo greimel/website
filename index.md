@@ -5,7 +5,7 @@
 # Fabian Greimel
 
 _Assistant Professor of Economics_ \
-University of Amsterdam
+University of Vienna
 
 [Curriculum Vitae](/assets/cv.pdf)
 
@@ -15,13 +15,6 @@ Distributional Macroeconomics ·
 Macro-Finance ·
 Household Finance ·
 Computational Economics
-
-> ## Workshop on _Redistributive Trends_ 
->
-> * on December 2, 2022 in Amsterdam [(details and program)](https://tinbergen.nl/event/2022/12/02/11899/workshop-on-redistributive-trends-macro-finance-and-central-banking)
-> * Keynote speakers: Ben Moll and Moritz Schularick
-> * Other speakers: Clara Martinez-Toledano, Rene Stulz, Viral Acharya, Ludwig Straub
-> * Organizers: Enrico Perotti, Fabian Greimel, Yasmine van der Straten
 
 ## Research Projects
 
@@ -132,8 +125,9 @@ _2018:_ _Financial Markets and Macroeconomic Performance_ (CEPR, Frankfurt, Post
 
 ## Academic Positions
 
-* _since 2020:_ Assistant Professor -- University of Amsterdam
-* _since 2021:_ Candidate Fellow -- Tinbergen Institute
+* _since 2024:_ Assistant Professor -- University of Vienna
+* _2020-2024:_ Assistant Professor _(tenure track)_ -- University of Amsterdam
+* _2021-2024:_ Candidate Fellow -- Tinbergen Institute
 
 ## Education
 
@@ -144,10 +138,10 @@ _2018:_ _Financial Markets and Macroeconomic Performance_ (CEPR, Frankfurt, Post
 
 ## Contact
 
-University of Amsterdam \
-Amsterdam School of Economics  \
-Roeterstraat 11 \
-1018 WB Amsterdam \
-Netherlands
+University of Vienna \
+Department of Economics \
+Oskar-Morgenstern-Platz 1 \
+1090 Wien \
+Austria
 
-email: f.greimel@uva.nl
+email: fabian.greimel@univie.ac.at
