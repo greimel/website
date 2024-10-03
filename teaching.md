@@ -5,7 +5,7 @@
 ## Current
 * _since Fall 2024_: Networks in Economics and Finance *(Bachelor)* -- U Vienna --    
     [course website](https://greimel.github.io/networks-course)
-* _from Spring 2025_: Topics in Distributional Macroeconomics *(Master)* -- U Vienna
+* _from Spring 2025_: Distributional Macroeconomics *(Master)* -- U Vienna
 
  
 ## Past  
@@ -13,7 +13,7 @@
     [course website](https://greimel.github.io/distributional-macroeconomics)
 * _2021--2024_: Networks in Economics and Finance *(Master)* -- U Amsterdam --    
     [course website](https://greimel.github.io/networks-course)
-* _2020-2023_: Microeconomics *(Bachelor)* --- U Amsterdam
+* _2020--2023_: Microeconomics *(Bachelor)* --- U Amsterdam
 * _2018--2020_: TA for Economic Policy (mechanism design, political economy, applications in monetary, fiscal, growth and competition policies, taught by Hans Peter Grüner) -- Undergraduate -- U Mannheim
 * _2015_: TA for Mathematics 2 (topological, metric, normed spaces; correspondences; convexity) -- Graduate -- IHS Vienna
 * _2015_: TA for Econometrics 2 (linear, multivariate time series analysis, taught by Manfred Deistler) -- Graduate -- IHS Vienna
