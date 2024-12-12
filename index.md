@@ -16,24 +16,21 @@ Macro-Finance ·
 Household Finance ·
 Computational Economics
 
-## Research Projects
+## News
 
-\solopaper{
-    Firm-borne Financial Contagion: When Rollover Risk Ripples
-}{
-    January 2024
-}{
-    [[paper]](/assets/rollover-risk-ripples-paper.pdf)
-    [[slides]](/assets/rollover-risk-ripples-slides.pdf)
-    \abstract{ A financial network becomes more resilient to large shocks when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper shows that shocks can travel across unconnected components if firms have multiple lenders and both short-term and long-term debt. Because of their short-term debt, firms are subject to rollover risk. When Bank $S$ does not rollover (withdraw) their short-term loan the firm might be forced to suspend its long-run debt service with its other lender Bank $L$. The roll-over risk ripples: a financial shock to one bank ($S$) travels to another bank ($L$), that need not be connected on the interbank market. I show that the shock will reach Bank $L$ if three conditions are satisfied. First, the firm's reliance on short-term debt must be in an intermediate range. Second, Bank $S$ provides a big enough share of the firm's short-term debt. And third, Bank $L$ provides a big enough share of the firm's long-term debt.}
-}
+* December 2024 | Resubmitted _Falling behind_ to the **Review of Financial Studies**
+* December 2024 | Received the **Teacher of the Year 2023/24** award for my course **Networks in Economics and Finance** at the University of Amsterdam
+* September 2024 | **New Job** at the _University of Vienna_
+* December 2023 | Co-organizing **T2M Conference in Amsterdam** with Pablo Winant, Elisabeth Proehl and Christian Stoltenberg in May 2024
+
+## Research Projects
 
 ~~~<br><br>~~~
 
 \paper{
     Falling Behind: Has Rising Inequality Fueled the American Debt Boom?
 }{
-    August 2023 -- _major update_
+    December 2024 -- _major update_
 }{
     [Moritz Drechsel-Grau](https://www.moritzdrechselgrau.com)
 }{
@@ -46,7 +43,7 @@ Computational Economics
         This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the US between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize up to a quarter of the observed debt boom.
     }
     ~~~<br>~~~
-   _revise & resubmit at the **Review of Financial Studies**_
+   _revised & resubmitted at the **Review of Financial Studies**_
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
     ~~~<br>~~~
@@ -68,6 +65,15 @@ Computational Economics
 }
 
 ~~~<br><br>~~~
+
+\solopaper{
+    Firm-borne Financial Contagion: When Rollover Risk Ripples
+}{
+    Work in Progress
+}{    
+    [[slides]](/assets/rollover-risk-ripples-slides.pdf)
+    \abstract{ A financial network becomes more resilient to large shocks when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper shows that shocks can travel across unconnected components if firms have multiple lenders and both short-term and long-term debt. Because of their short-term debt, firms are subject to rollover risk. When Bank $S$ does not rollover (withdraw) their short-term loan the firm might be forced to suspend its long-run debt service with its other lender Bank $L$. The roll-over risk ripples: a financial shock to one bank ($S$) travels to another bank ($L$), that need not be connected on the interbank market. I show that the shock will reach Bank $L$ if three conditions are satisfied. First, the firm's reliance on short-term debt must be in an intermediate range. Second, Bank $S$ provides a big enough share of the firm's short-term debt. And third, Bank $L$ provides a big enough share of the firm's long-term debt.}
+}
 
 \solopaper{
     Home-Biased Landlords: Rents Too High But Yields Too Low
