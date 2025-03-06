@@ -3,10 +3,10 @@
 # Teaching
 
 ## Current
-* _since Fall 2024_: Networks in Economics and Finance *(Bachelor)* -- U Vienna --    
+* _since Winter 2024_: Networks in Economics and Finance *(Bachelor)* -- U Vienna --    
     [course website](https://greimel.github.io/networks-course)
-* _from Spring 2025_: Distributional Macroeconomics *(Master)* -- U Vienna
-
+* _from Summer 2025_: Macroeconomics and Inequality *(Master)* -- U Vienna --    
+    [course website](https://greimel.github.io/macro-inequality)
  
 ## Past  
 * _2022--2024_: Topics in Distributional Macroeconomics *(PhD)* -- Tinbergen Institute (Amsterdam) --

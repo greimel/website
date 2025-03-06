@@ -18,7 +18,7 @@ Computational Economics
 
 ## News
 
-* December 2024 | Resubmitted _Falling behind_ to the **Review of Financial Studies**
+* March 2025 | _Falling behind_ got accepted at the **Review of Financial Studies**
 * December 2024 | Received the **Teacher of the Year 2023/24** award of the _MSc Econonometrics_ for my **Networks** course at the University of Amsterdam
 * September 2024 | **New Job** at the _University of Vienna_
 * December 2023 | Co-organizing **T2M Conference in Amsterdam** with Pablo Winant, Elisabeth Proehl and Christian Stoltenberg in May 2024
@@ -41,7 +41,7 @@ Computational Economics
         This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the US between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize up to a quarter of the observed debt boom.
     }
     ~~~<br>~~~
-   _revised & resubmitted to the **Review of Financial Studies**_
+   _accepted at the **Review of Financial Studies**_
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
     ~~~<br>~~~
