@@ -28,7 +28,7 @@ Computational Economics
 \paper{
     Falling Behind: Has Rising Inequality Fueled the American Debt Boom?
 }{
-    December 2024
+    September 2025
 }{
     [Moritz Drechsel-Grau](https://www.moritzdrechselgrau.com)
 }{
@@ -41,7 +41,7 @@ Computational Economics
         This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the US between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize up to a quarter of the observed debt boom.
     }
     ~~~<br>~~~
-   _accepted at the **Review of Financial Studies**_
+   [_**Review of Financial Studies**_, hhaf062](https://doi.org/10.1093/rfs/hhaf062)
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
     ~~~<br>~~~
