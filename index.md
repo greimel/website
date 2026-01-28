@@ -38,10 +38,10 @@ Computational Economics
     [[two-minute video]](https://www.aeaweb.org/conference/videos/2020/fabian-greimel)
     [[old version with Huggett-type model]](/assets/falling-behind-paper-old.pdf)
     \abstract{
-        This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the US between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize up to a quarter of the observed debt boom.
+        This paper studies whether the interplay of social comparisons in housing and rising income inequality contributed to the household debt boom in the United States between 1980 and 2007. We develop a tractable macroeconomic model with general social comparisons in housing to show that changes in the distribution of income affect aggregate housing demand, aggregate debt, and house prices if (and only if) social comparisons are asymmetric. In the empirically relevant case of upward-looking comparisons, rising inequality can rationalize a substantial share of the observed housing and debt boom.
     }
     ~~~<br>~~~
-   [_**Review of Financial Studies**_, hhaf062](https://doi.org/10.1093/rfs/hhaf062)
+   [**_Review of Financial Studies_ 39** (2026) 459–517](https://doi.org/10.1093/rfs/hhaf062)
     ~~~<br>~~~
    *2020 WFA PhD Candidate Award for Outstanding Research*
     ~~~<br>~~~
@@ -50,13 +50,17 @@ Computational Economics
 
 ~~~<br><br>~~~
 
-\solopaper{
-    Firm-borne Financial Contagion: When Rollover Risk Ripples
+\paper{
+    Shared Borrowers, Shared Stress: The Credit-Line Channel of Contagion
 }{
-    February 2024
+    January 2026
+}{
+    [Carlos A. Ramírez](https://www.carlosrc.com)
 }{    
-    [[slides]](/assets/rollover-risk-ripples-slides.pdf)
-    \abstract{ A financial network becomes more resilient to large shocks when it is split into two weakly connected components. A shock will be contained in the component of the network that it hits. This paper shows that shocks can travel across unconnected components if firms have multiple lenders and both short-term and long-term debt. Because of their short-term debt, firms are subject to rollover risk. When Bank $S$ does not rollover (withdraw) their short-term loan the firm might be forced to suspend its long-run debt service with its other lender Bank $L$. The roll-over risk ripples: a financial shock to one bank ($S$) travels to another bank ($L$), that need not be connected on the interbank market. I show that the shock will reach Bank $L$ if three conditions are satisfied. First, the firm's reliance on short-term debt must be in an intermediate range. Second, Bank $S$ provides a big enough share of the firm's short-term debt. And third, Bank $L$ provides a big enough share of the firm's long-term debt.}
+    [draft coming soon]
+    \abstract{
+        We introduce a novel channel through which shocks propagate in financial networks: banks are connected if they have revolving credit lines with a common industry. When a distressed bank cuts down credit, firms in that industry will compensate this liquidity loss by drawing more heavily on their other credit lines, creating additional liquidity outflows for all other banks serving this industry. Using regulatory loan-level corporate credit data from the Federal Reserve, we construct a bank-by-bank _spillover matrix_ and measure each institution’s _systemicness_ and _vulnerability_ at a quarterly frequency. The credit-line channel is quantitatively important and economically meaningful: shocks to large banks generate substantial liquidity outflows for other institutions—large enough to push several banks close to regulatory liquidity constraints. Because the construction relies on credit-line exposures that regulators observe at high frequency-rather than market prices—our approach provides a structural, operational tool for evaluating the systemic consequences of bank distress.
+    }
 }
 
 ~~~<br><br>~~~
