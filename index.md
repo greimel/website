@@ -57,7 +57,7 @@ Computational Economics
 }{
     [Carlos A. Ramírez](https://www.carlosrc.com)
 }{    
-    [draft coming soon]
+    [[slides]](/assets/shared-borrowers-slides.pdf) [draft coming soon]
     \abstract{
         We introduce a novel channel through which shocks propagate in financial networks: banks are connected if they have revolving credit lines with a common industry. When a distressed bank cuts down credit, firms in that industry will compensate this liquidity loss by drawing more heavily on their other credit lines, creating additional liquidity outflows for all other banks serving this industry. Using regulatory loan-level corporate credit data from the Federal Reserve, we construct a bank-by-bank _spillover matrix_ and measure each institution’s _systemicness_ and _vulnerability_ at a quarterly frequency. The credit-line channel is quantitatively important and economically meaningful: shocks to large banks generate substantial liquidity outflows for other institutions—large enough to push several banks close to regulatory liquidity constraints. Because the construction relies on credit-line exposures that regulators observe at high frequency-rather than market prices—our approach provides a structural, operational tool for evaluating the systemic consequences of bank distress.
     }
