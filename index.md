@@ -26,6 +26,21 @@ Computational Economics
 ## Research Projects
 
 \paper{
+    Shared Borrowers, Shared Stress: The Credit-Line Channel of Contagion
+}{
+    January 2026
+}{
+    [Carlos A. Ramírez](https://www.carlosrc.com)
+}{    
+    [[slides]](/assets/shared-borrowers-slides.pdf) [[paper]](/assets/shared-borrowers-paper.pdf)
+    \abstract{
+        We propose a novel channel of shock propagation in the banking system: when a distressed bank curtails credit, firms substitute by drawing more heavily on alternative credit lines, triggering liquidity outflows at other banks. Using detailed US supervisory data, we show that this channel is quantitatively significant and provides a more granular system-wide view of liquidity risk among banks.
+    }
+}
+
+~~~<br><br>~~~
+
+\paper{
     Falling Behind: Has Rising Inequality Fueled the American Debt Boom?
 }{
     September 2025
@@ -46,21 +61,6 @@ Computational Economics
    *2020 WFA PhD Candidate Award for Outstanding Research*
     ~~~<br>~~~
    *2022 Young Economist Award of the Austrian Economic Association*
-}
-
-~~~<br><br>~~~
-
-\paper{
-    Shared Borrowers, Shared Stress: The Credit-Line Channel of Contagion
-}{
-    January 2026
-}{
-    [Carlos A. Ramírez](https://www.carlosrc.com)
-}{    
-    [[slides]](/assets/shared-borrowers-slides.pdf) [[paper]](/assets/shared-borrowers-paper.pdf)
-    \abstract{
-        We propose a novel channel of shock propagation in the banking system: when a distressed bank curtails credit, firms substitute by drawing more heavily on alternative credit lines, triggering liquidity outflows at other banks. Using detailed US supervisory data, we show that this channel is quantitatively significant and provides a more granular system-wide view of liquidity risk among banks.
-    }
 }
 
 ~~~<br><br>~~~
