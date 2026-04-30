@@ -57,9 +57,9 @@ Computational Economics
 }{
     [Carlos A. Ramírez](https://www.carlosrc.com)
 }{    
-    [[slides]](/assets/shared-borrowers-slides.pdf) [draft coming soon]
+    [[slides]](/assets/shared-borrowers-slides.pdf) [[paper]](/assets/shared-borrowers-paper.pdf)
     \abstract{
-        We introduce a novel channel through which shocks propagate in financial networks: banks are connected if they have revolving credit lines with a common industry. When a distressed bank cuts down credit, firms in that industry will compensate this liquidity loss by drawing more heavily on their other credit lines, creating additional liquidity outflows for all other banks serving this industry. Using regulatory loan-level corporate credit data from the Federal Reserve, we construct a bank-by-bank _spillover matrix_ and measure each institution’s _systemicness_ and _vulnerability_ at a quarterly frequency. The credit-line channel is quantitatively important and economically meaningful: shocks to large banks generate substantial liquidity outflows for other institutions—large enough to push several banks close to regulatory liquidity constraints. Because the construction relies on credit-line exposures that regulators observe at high frequency-rather than market prices—our approach provides a structural, operational tool for evaluating the systemic consequences of bank distress.
+        We propose a novel channel of shock propagation in the banking system: when a distressed bank curtails credit, firms substitute by drawing more heavily on alternative credit lines, triggering liquidity outflows at other banks. Using detailed US supervisory data, we show that this channel is quantitatively significant and provides a more granular system-wide view of liquidity risk among banks.
     }
 }
 
@@ -78,6 +78,12 @@ Computational Economics
 }
 
 ## Talks and Discussions
+
+_2026_: _Network Science in Economics_ in Miami 
+  · _Barcelona Summer Forum_
+
+_2024_: _Wifo Vienna_
+  · _University of Vienna_
 
 _2023_: _TU Vienna_
  · _Dutch Institute for Emergent Phenomena_ in Amsterdam
