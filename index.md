@@ -7,8 +7,6 @@
 _Assistant Professor of Economics_ \
 University of Vienna
 
-[Curriculum Vitae](/assets/cv.pdf)
-
 ## Research Fields
 
 Distributional Macroeconomics ·
